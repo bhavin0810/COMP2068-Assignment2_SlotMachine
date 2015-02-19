@@ -67,7 +67,29 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\audio\betButton.wav" />
+    <Content Include="assets\audio\error.wav" />
+    <Content Include="assets\audio\loose.wav" />
+    <Content Include="assets\audio\reset.wav" />
+    <Content Include="assets\audio\slotMachine.wav" />
+    <Content Include="assets\audio\spinButton.wav" />
+    <Content Include="assets\audio\winner.mp3" />
     <Content Include="assets\images\background.png" />
+    <Content Include="assets\images\banana.jpg" />
+    <Content Include="assets\images\bar.jpg" />
+    <Content Include="assets\images\bell.jpg" />
+    <Content Include="assets\images\betOneButton.png" />
+    <Content Include="assets\images\betTenButton.png" />
+    <Content Include="assets\images\betThreeButton.png" />
+    <Content Include="assets\images\betTwoButton.png" />
+    <Content Include="assets\images\blank.jpg" />
+    <Content Include="assets\images\cherry.jpg" />
+    <Content Include="assets\images\grapes.jpg" />
+    <Content Include="assets\images\hand_cur.png" />
+    <Content Include="assets\images\newGameButton.png" />
+    <Content Include="assets\images\orange.jpg" />
+    <Content Include="assets\images\seven.jpg" />
+    <Content Include="assets\images\spinButton.png" />
     <Content Include="css\game.css" />
     <Content Include="index.html" />
     <Content Include="scripts\lib\easeljs-0.8.0.min.js" />
@@ -81,7 +103,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="assets\audio\" />
     <Folder Include="assets\fonts\" />
   </ItemGroup>
   <ItemGroup>
