@@ -112,6 +112,7 @@
     <TypeScriptCompile Include="scripts\lib\preloadjs.d.ts" />
     <TypeScriptCompile Include="scripts\lib\soundjs.d.ts" />
     <TypeScriptCompile Include="scripts\lib\tweenjs.d.ts" />
+    <TypeScriptCompile Include="scripts\objects\Button.ts" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

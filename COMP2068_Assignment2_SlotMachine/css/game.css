@@ -1,3 +1,11 @@
-﻿#canvas{
+﻿/*
+//Porject Name: Assignment2-Slot Machine
+//Programmer: Bhavin Patel
+//Description: CSS for the Slot Machine game
+//Date: Feb 20 2015
+//version 1.0 Add the border the of the Canvas Element.
+*/
+
+#canvas{
     border: dashed 1px black;   
 }
